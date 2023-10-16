@@ -10,7 +10,7 @@
   **(Ratings):** The ratings which the user gave to the given movie<br></br>
   **(Timestamp):** The time at which the user rated the given movie<br></br>
 
-  The different layers of our project is like this:<br></br>
+  **The different layers of our project is like this**:<br></br>
   
   1.Top most layer is Python Client-Here we wrote the code to connect to RESTful service which is itself connected to HBase which is in turn built on top of HDFS.<br></br>
   
