@@ -14,8 +14,7 @@
   
   1.Top most layer is Python Client-Here we wrote the code to connect to RESTful service which is itself connected to HBase which is in turn built on top of HDFS.<br></br>
   
-  2.Next layer is RESTful service which we connected to HBase which will help in getting pull and get request from outside the cluster to HBase which is inside the cluster to 
-  perform different set of operations as needed by the users.<br></br>
+  2.Next layer is RESTful service which we connected to HBase which will help in getting pull and get request from outside the cluster to HBase which is inside the cluster to perform different set of operations as needed by the users.<br></br>
 
   3.Next layer is HBase which read in data do the operation or perform the queries on that and then read it to the output to the user or serves it to the user through RESTful service.<br></br>
 
