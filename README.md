@@ -3,7 +3,7 @@
 <table>
   
   **In this project we use the power of HBase and RESTful service to find the movie ratings for a given user id using python script.<br></br>**
-
+  **Before diving into the dataset lets get to know what is HBase**?<br></br>
 
   Apache HBase is an open-source, NoSQL, distributed big data store. It enables random, strictly consistent, real-time access to petabytes of data. HBase is very effective for handling large, sparse datasets.<br>
 HBase integrates seamlessly with Apache Hadoop and the Hadoop ecosystem and runs on top of the Hadoop Distributed File System (HDFS) or Amazon S3 using Amazon Elastic MapReduce (EMR) file system, or EMRFS. HBase serves as a direct input and output to the Apache MapReduce framework for Hadoop, and works with Apache Phoenix to enable SQL-like queries over HBase tables.<br></br>
