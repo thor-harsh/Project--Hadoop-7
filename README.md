@@ -20,3 +20,13 @@
   3.Next layer is HBase which read in data do the operation or perform the queries on that and then read it to the output to the user or serves it to the user through RESTful service.<br></br>
 
   4.Final layer is HDFS which is the Hadoop Distibution File System which distibutes the work among different clusters of computers.<br></br>
+
+  Application of this project can be in movie recommendation to certain users on the basis of movies he rated.<br>
+
+  **Important Note: Please go through the dataset once before going to the code.**
+
+
+</table>
+
+
+**So what are you waiting for...? Jump to the code to get started. As usual for any doubt or query see you in pull request section 😁😂. Thanks!**
